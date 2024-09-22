@@ -108,7 +108,7 @@ public class Exercice2 : MonoBehaviour
         mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
 
-        //createSphere();
+        createSphere();
     }
 
     // Update is called once per frame

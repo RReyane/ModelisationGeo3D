@@ -105,7 +105,7 @@ public class Exercice1 : MonoBehaviour
         mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
 
-        //createCylindre();
+        createCylindre();
     }
 
     // Update is called once per frame

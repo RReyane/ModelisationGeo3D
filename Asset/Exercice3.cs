@@ -128,7 +128,7 @@ public class Exercice3 : MonoBehaviour
         mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
 
-        //createCone();
+        createCone();
     }
 
     // Update is called once per frame

@@ -119,7 +119,7 @@ public class Exercice0 : MonoBehaviour
         mesh = new Mesh();
         GetComponent<MeshFilter>().mesh = mesh;
 
-        //createPlan();
+        createPlan();
     }
 
     // Update is called once per frame
